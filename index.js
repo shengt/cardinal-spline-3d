@@ -127,7 +127,7 @@ function getCurvePoints(points, tension, numOfSeg, close) {
   }
 
   // add last point
-  l = close ? 0 : points.length - 2;
+  l = close ? 0 : points.length - 1;
   res.push(points[l])
 
   return res
