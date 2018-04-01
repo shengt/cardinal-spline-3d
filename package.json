@@ -1,5 +1,5 @@
 {
-  "name": "cardinal-spline-3d",
+  "name": "@cleerly/cardinal-spline-3d",
   "version": "3.0.0",
   "description": "Smooth curve through points with tension and resolution options.",
   "main": "curve_calc.js",
