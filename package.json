@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/epistemex/cardinal-spline-js.git"
+    "url": "https://github.com/shengt/cardinal-spline-3d.git"
   },
   "keywords": [
     "cardinal",
@@ -19,9 +19,9 @@
   "author": "Ken Nilsen <github@epistemex.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/epistemex/cardinal-spline-js/issues"
+    "url": "https://github.com/shengt/cardinal-spline-3d/issues"
   },
-  "homepage": "https://github.com/epistemex/cardinal-spline-js#readme",
+  "homepage": "https://github.com/shengt/cardinal-spline-3d#readme",
   "devDependencies": {
     "@jscad/csg": "^0.3.7"
   }
